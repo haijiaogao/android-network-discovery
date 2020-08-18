@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2009-2010 Aubort Jean-Baptiste (Rorist)
+4 Licensed under GNU's GPL 2, see README
+5-->
+6<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+7    package="info.lamatricexiste.network"
+8    android:installLocation="preferExternal"
+9    android:versionCode="45"
+10    android:versionName="0.3.5.1" > <!-- FIXME: Isn't the app compatible with API Level 1 ? -->
+11    <uses-sdk
+11-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+12        android:minSdkVersion="3"
+12-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:70:9-34
+13        android:targetSdkVersion="26" />
+13-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:71:9-38
+14
+15    <supports-screens />
+15-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:67:5-25
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:73:5-67
+17-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:73:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:74:5-79
+18-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:74:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:75:5-76
+19-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:75:22-73
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:76:5-81
+20-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:76:22-78
+21    <uses-permission android:name="android.permission.VIBRATE" />
+21-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:77:5-66
+21-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:77:22-63
+22
+23    <application
+23-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:11:5-65:19
+24        android:debuggable="true"
+24-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:12:9-35
+25        android:icon="@drawable/icon"
+25-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:13:9-38
+26        android:label="@string/app_name"
+26-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:14:9-41
+27        android:testOnly="true" >
+28        <activity
+28-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:16:9-21:20
+29            android:name="info.lamatricexiste.network.ActivityMain"
+29-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:17:13-41
+30            android:configChanges="keyboard|keyboardHidden|orientation"
+30-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:18:13-72
+31            android:label="@string/app_name" >
+31-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:19:13-45
+32        </activity>
+33        <activity
+33-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:23:9-31:20
+34            android:name="info.lamatricexiste.network.ActivityDiscovery"
+34-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:24:13-46
+35            android:configChanges="keyboard|keyboardHidden|orientation"
+35-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:25:13-72
+36            android:label="@string/app_name" >
+36-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:26:13-45
+37            <intent-filter>
+37-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:27:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:28:17-69
+38-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:28:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:29:17-77
+40-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:33:9-49:20
+44            android:name="info.lamatricexiste.network.ActivityPortscan"
+44-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:34:13-45
+45            android:configChanges="keyboard|keyboardHidden"
+45-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:35:13-60
+46            android:label="@string/app_name" >
+46-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:36:13-45
+47            <intent-filter>
+47-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:37:13-48:29
+48                <action android:name=".SCAN_HOST" />
+48-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:38:17-53
+48-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:38:25-50
+49
+50                <category android:name="android.intent.category.DEFAULT" />
+50-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:17-76
+50-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:27-73
+51                <!--
+52                  Extras:
+53                    HostBean.EXTRA_HOST         Host to scan: i.e. scanme.nmap.org or an IP
+54                    HostBean.EXTRA_POSITION     Integer that will be put to the result intent
+55                    HostBean.EXTRA_TIMEOUT      Maximum time a port can be reached, AKA scan rate
+56                    HostBean.EXTRA_PORTSO       Integer array of already know open ports for this host
+57                    HostBean.EXTRA_PORTSC       Integer array of already know closed ports for this host
+58                -->
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:51:9-59:20
+62            android:name="info.lamatricexiste.network.Utils.Prefs"
+62-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:52:13-40
+63            android:configChanges="keyboard|keyboardHidden|orientation"
+63-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:53:13-72
+64            android:label="@string/app_name" >
+64-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:54:13-45
+65            <intent-filter>
+65-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:55:13-58:29
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:17-76
+66-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:27-73
+67                <category android:name="android.intent.category.PREFERENCE" />
+67-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:57:17-79
+67-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:57:27-76
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:61:9-63:48
+71            android:name="info.lamatricexiste.network.Utils.Help"
+71-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:62:13-39
+72            android:label="@string/app_name" />
+72-->/media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:63:13-45
+73    </application>
+74
+75</manifest>

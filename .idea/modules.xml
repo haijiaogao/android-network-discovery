@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/haijiao/work/gitcode/android-network-discovery/app/app.iml" filepath="/media/haijiao/work/gitcode/android-network-discovery/app/app.iml" group="android-network-discovery/app" />
+      <module fileurl="file:///media/haijiao/work/gitcode/android-network-discovery/gitcode-android-network-discovery.iml" filepath="/media/haijiao/work/gitcode/android-network-discovery/gitcode-android-network-discovery.iml" group="android-network-discovery" />
+    </modules>
+  </component>
+</project>

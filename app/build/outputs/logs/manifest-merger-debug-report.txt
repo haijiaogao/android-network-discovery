@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:1-78:12
+	package
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:6:5-42
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:9:5-34
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:5:11-69
+	android:versionCode
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:8:5-29
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:7:5-45
+application
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:11:5-65:19
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:14:9-41
+	android:debuggable
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:13:9-38
+activity#info.lamatricexiste.network.ActivityMain
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:16:9-21:20
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:18:13-72
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:17:13-41
+activity#info.lamatricexiste.network.ActivityDiscovery
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:24:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:29:27-74
+activity#info.lamatricexiste.network.ActivityPortscan
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:33:9-49:20
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:35:13-60
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:34:13-45
+intent-filter#action:name:.SCAN_HOST+category:name:android.intent.category.DEFAULT
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:37:13-48:29
+action#info.lamatricexiste.network.SCAN_HOST
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:38:17-53
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:38:25-50
+category#android.intent.category.DEFAULT
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:39:27-73
+activity#info.lamatricexiste.network.Utils.Prefs
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:53:13-72
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:52:13-40
+intent-filter#category:name:android.intent.category.DEFAULT+category:name:android.intent.category.PREFERENCE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:55:13-58:29
+category#android.intent.category.PREFERENCE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:57:17-79
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:57:27-76
+activity#info.lamatricexiste.network.Utils.Help
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:61:9-63:48
+	android:label
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:62:13-39
+supports-screens
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:67:5-25
+uses-sdk
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:69:5-71:41
+	android:targetSdkVersion
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:71:9-38
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:70:9-34
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+		INJECTED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:73:5-67
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:73:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:74:5-79
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:74:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:75:5-76
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:75:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:76:5-81
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:76:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:77:5-66
+	android:name
+		ADDED from /media/haijiao/work/gitcode/android-network-discovery/app/src/main/AndroidManifest.xml:77:22-63

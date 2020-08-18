@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_help.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_connect.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/connect.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_portscan.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/portscan.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_install.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/install.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_disabled.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/disabled.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_computer.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/computer.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_settings.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_export.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/export.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_cancel.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/cancel.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_wifi.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_btn_bg.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_computer_down.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/computer_down.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_back.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_closed.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/closed.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_drawer_bg.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/drawer_bg.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_dialog_edittext.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/dialog_edittext.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_btn_donate.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/btn_donate.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout-land_portscan.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout-land/portscan.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_router.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/router.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_discover.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/discover.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_scan_single.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/scan_single.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_list_port.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/list_port.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_open.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/open.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_list_host.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/list_host.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable_arrow_right.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable/arrow_right.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/raw_saves.bin.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/raw/saves.bin"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/layout_discovery.xml.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/layout/discovery.xml"
+    },
+    {
+        "merged": "/media/haijiao/work/gitcode/android-network-discovery/app/build/intermediates/res/merged/debug/raw_services.bin.flat",
+        "source": "/media/haijiao/work/gitcode/android-network-discovery/app/src/main/res/raw/services.bin"
+    }
+]
